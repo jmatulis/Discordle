@@ -8,4 +8,3 @@
 ## Team members...
 - Lucas Weber
 - Jonas Matulis
-- Thomas Hearn
